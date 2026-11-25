@@ -1,0 +1,3 @@
+payout_id,settled_date,gross_amount,processor_fee,net_payout
+STR-101,2026-10-01,5000.00,150.00,4850.00
+STR-102,2026-10-05,3215.00,94.50,3120.50
